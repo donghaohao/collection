@@ -28,3 +28,6 @@
 
 ## 正则表达式
 1. [正则表达式前端使用手册](http://louiszhai.github.io/2016/06/13/regexp/)
+
+## 综合
+1. [现代Web开发](https://github.com/wxyyxc1992/Web-Series)
