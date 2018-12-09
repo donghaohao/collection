@@ -22,3 +22,9 @@
 
 ## 区块链
 1. [Node.js区块链开发](https://github.com/imfly/bitcoin-on-nodejs) [code](https://github.com/Ebookcoin/ebookcoin)
+
+## React
+1. [React小书](https://github.com/huzidaha/react-naive-book)
+
+## 正则表达式
+1. [正则表达式前端使用手册](http://louiszhai.github.io/2016/06/13/regexp/)
